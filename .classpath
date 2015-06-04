@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/gdx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/jpl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/gdx-backend-android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/gdx-backend-gwt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/gdx-backend-headless.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/gdx-backend-jglfw.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/gdx-backend-jglfw-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/gdx-backend-robovm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tsurugichi/git/Star3-AI/gdx-setup.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
